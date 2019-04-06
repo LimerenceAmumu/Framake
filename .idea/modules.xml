@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/framework.iml" filepath="$PROJECT_DIR$/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lucene/lucene.iml" filepath="$PROJECT_DIR$/lucene/lucene.iml" />
+      <module fileurl="file://D:/学习资料/黑马最新/讲义+笔记+资料/流行框架/61.会员版(2.0)-就业课(2.0)-Lucene/lucene/04.source/lucene-project/lucene-first/lucene-first.iml" filepath="D:/学习资料/黑马最新/讲义+笔记+资料/流行框架/61.会员版(2.0)-就业课(2.0)-Lucene/lucene/04.source/lucene-project/lucene-first/lucene-first.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://D:/学习资料/黑马最新/讲义+笔记+资料/流行框架/61.会员版(2.0)-就业课(2.0)-Lucene/lucene/04.source/lucene-project/lucene-first/lib/lucene-queryparser-7.4.0.jar!/" />
+      <root url="jar://D:/学习资料/黑马最新/讲义+笔记+资料/流行框架/61.会员版(2.0)-就业课(2.0)-Lucene/lucene/04.source/lucene-project/lucene-first/lib/lucene-core-7.4.0.jar!/" />
+      <root url="jar://D:/学习资料/黑马最新/讲义+笔记+资料/流行框架/61.会员版(2.0)-就业课(2.0)-Lucene/lucene/04.source/lucene-project/lucene-first/lib/IK-Analyzer-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://D:/学习资料/黑马最新/讲义+笔记+资料/流行框架/61.会员版(2.0)-就业课(2.0)-Lucene/lucene/04.source/lucene-project/lucene-first/lib/commons-io-2.6.jar!/" />
+      <root url="jar://D:/学习资料/黑马最新/讲义+笔记+资料/流行框架/61.会员版(2.0)-就业课(2.0)-Lucene/lucene/04.source/lucene-project/lucene-first/lib/lucene-analyzers-common-7.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
